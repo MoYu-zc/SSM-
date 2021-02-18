@@ -6,5 +6,6 @@ applicationContext.xml linguist-language=SSM
 mybatis-config.xml linguist-language=SSM
 spring-dao.xml linguist-language=SSM
 spring-mvc.xml linguist-language=SSM
-spring-service.xml linguist-language=SSM
 pom.xml linguist-language=Maven
+spring-service.xml linguist-language=SSM
+
