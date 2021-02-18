@@ -1,6 +1,5 @@
-*.js linguist-language=java web
-*.css linguist-language=java web
-*.html linguist-language=java web
+*.js linguist-language=Web
+*.css linguist-language=Web
+*.html linguist-language=Web
 *.java linguist-language=java
 pom.xml linguist-language=Maven
-applicationContext.xml linguist-language=SSM
