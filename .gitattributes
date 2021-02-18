@@ -1,4 +1,10 @@
-*.js linguist-language=HTML
-*.css linguist-language=HTML
-*.jsp linguist-language=HTML
+*.js linguist-language=Web
+*.css linguist-language=Web
+*.jsp linguist-language=Web
 *.java linguist-language=java
+applicationContext.xml linguist-language=SSM
+mybatis-config.xml linguist-language=SSM
+spring-dao.xml linguist-language=SSM
+spring-mvc.xml linguist-language=SSM
+spring-service.xml linguist-language=SSM
+pom.xml linguist-language=Maven
