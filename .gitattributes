@@ -1,5 +1,5 @@
-*.js linguist-language=Web
-*.css linguist-language=Web
-*.html linguist-language=Web
+*.js linguist-language=HTML
+*.css linguist-language=HTML
+*.html linguist-language=HTML
 *.java linguist-language=java
-pom.xml linguist-language=Maven
+
